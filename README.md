@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumeet-Ranjan-Parida
-- 🔭 I'm currently working on Docker and Kubernetes
+- 🔭 I'm currently working on Shell Scripting
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me - https://www.linkedin.com/in/sumeet-ranjan-parida/
 
